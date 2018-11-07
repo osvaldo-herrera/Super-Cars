@@ -1,0 +1,98 @@
+body {
+	background-color: black;
+	margin: auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: -20px;
+}
+.supercars {
+	background-image: url(http://www.animatiz.com/wp-content/uploads/2017/01/wallpapers-city.jpg);
+	background-position: top;
+	text-align: center;
+	font-size: 100px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	color: white;
+}
+.ferrari {
+	background-color: #fb5656;
+	font-size: 40px;
+	text-align: center;
+	border-radius: 10px;
+}
+.parallaxferrari {
+	background: url(http://2.bp.blogspot.com/-BPgzn1K3BVo/UiUdsIxO_sI/AAAAAAAA19k/k5S8MoiVtmw/s1600/New-Ferrari-F12-2013-HD-Wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-attachment:fixed;
+	height: 500px;
+	width: auto;
+	border-style: solid;
+	border-color: red;
+	border-radius: 10px;
+}
+.box3 {
+	text-align: justify;
+	font-family: sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+	color: white;
+	width: auto;
+}
+.lambo  {
+	background-color: gray;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+	
+}
+.parallaxlambo {
+	background-image: url(http://www.gamechannel.hu/pictures/hirblock/a-lamborghini-centenario-lesz-a-kovetkezo-forzajatek-boritojan_1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-attachment:fixed;
+	height: 500px;
+	width: auto;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+}
+.parallaxbugatti {
+	background-image:url(https://www.hdcarwallpapers.com/walls/2019_bugatti_divo_4k_3-HD.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: contain;
+	background-attachment:fixed;
+	height: 500px;
+	width: auto;
+	border-style: solid;
+	border-color: #006c88;
+	border-radius: 10px;
+}
+.bugatti {
+	background-color: #006c88;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	border-radius: 10px;
+}
+footer {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	background-color: #2472f9;
+	color: black;
+	height: auto;
+	width: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	border-radius: 10px;
+	font-size: 30px;
+	border-color: white;
+	border-style: solid;
+	font-family: sans-serif;
+}
